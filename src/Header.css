@@ -1,0 +1,19 @@
+#nav{
+    margin-left: 10px;
+    font-size: 30px;
+    color: black;
+}
+#img1{
+margin-left: 20px;
+}
+
+@media screen and (max-width:400px) {
+    #nav{
+        font-size: 20px;
+        color: black;
+    }
+    #img1{
+        margin-left: -5px;
+    height: 30px;
+    }
+}
